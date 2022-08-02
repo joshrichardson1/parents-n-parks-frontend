@@ -1,0 +1,379 @@
+{
+    "search_metadata": {
+        "id": "62c0ebc01d64ea048519a1fb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/42a8682a643b87bc/62c0ebc01d64ea048519a1fb.json",
+        "created_at": "2022-07-03 01:07:12 UTC",
+        "processed_at": "2022-07-03 01:07:12 UTC",
+        "google_events_url": "https://www.google.com/search?q=Family+Events+in+West+Sacramento&ibp=htl;events&hl=en",
+        "raw_html_file": "https://serpapi.com/searches/42a8682a643b87bc/62c0ebc01d64ea048519a1fb.html",
+        "total_time_taken": 5.13
+    },
+    "search_parameters": {
+        "q": "Family Events in West Sacramento",
+        "engine": "google_events"
+    },
+    "search_information": {
+        "events_results_state": "Results for exact spelling"
+    },
+    "events_results": [
+        {
+            "title": "Little Eco Art Market in Old Sacramento with kid...",
+            "date": {
+                "start_date": "Jul 3",
+                "when": "Sat, Jul 2, 3 PM PDT"
+            },
+            "address": [
+                "Atrium 916 - Creative Innovation Center for Sustainability, 1020 Front St",
+                "Sacramento, CA"
+            ],
+            "link": "https://www.eventbrite.com/e/little-eco-art-market-in-old-sacramento-with-kid-activities-tickets-356895462937",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=h86EWlzTw91jAX0A73mP0PPAJe7_FpI_FnIZCppRuuYj4divIyUSKFu4eCjqCJPeoMQoXvAdAgR_qVfMlNPKOPtm946jvHF_E2nTS9_A3wWn_jutfAU",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809adaea70d45795:0xc5da6c867b39a829?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809adaea70d45795%3A0xc5da6c867b39a829&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "Little Eco-Art Market in Old Sacramento waterfront is back with kid activities, train rides, and local vendors.",
+            "ticket_info": [
+                {
+                    "source": "Eventbrite.com",
+                    "link": "https://www.eventbrite.com/e/little-eco-art-market-in-old-sacramento-with-kid-activities-tickets-356895332547",
+                    "link_type": "tickets"
+                },
+                {
+                    "source": "UNATION",
+                    "link": "https://www.unation.com/event/11203809",
+                    "link_type": "more info"
+                },
+                {
+                    "source": "AllEvents.in",
+                    "link": "https://allevents.in/mobile/amp-event.php?event_id=10000356895462937",
+                    "link_type": "more info"
+                }
+            ],
+            "venue": {
+                "name": "Atrium 916 - Creative Innovation Center for Sustainability",
+                "rating": 4.6,
+                "reviews": 24,
+                "link": "https://www.google.com/search?hl=en&q=Atrium+916+-+Creative+Innovation+Center+for+Sustainability&ludocid=14256826895243520041&ibp=gwp%3B0,7"
+            },
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHF_8au40pxhL2cFcPhWhwhNtBdMyl1-2CRmt51RM4zg&s"
+        },
+        {
+            "title": "Paints & Ice Cream (for kids) at Leatherby's - Arden!",
+            "date": {
+                "start_date": "Jul 6",
+                "when": "Wed, 2 – 3 PM"
+            },
+            "address": [
+                "Leatherby's Family Creamery, 2333 Arden Way",
+                "Sacramento, CA"
+            ],
+            "link": "https://www.unation.com/event/10392603",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=EI-y-P-2x3AQ3O_UmEucJrwdRrBC8msuIE2DIEsHQ-gq3Ze-KV5m47nvDfW68iUi_1swTEguqREME3kDsF5v3li9EuaTOCTUtR3BcTXgmJjupf5Hla8",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809ada30d0ca126f:0x1b5b34e515fa4a27?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809ada30d0ca126f%3A0x1b5b34e515fa4a27&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "Paints & Ice Cream (for kids) at Leatherby's - Arden! is happening on Wednesday, July 06, 2022 at 02:00PM PDT at Leatherby's Family Creamery with tickets starting at $18.00 Please join us for a...",
+            "ticket_info": [
+                {
+                    "source": "Eventbrite.com",
+                    "link": "https://www.eventbrite.com/e/paints-ice-cream-for-kids-at-leatherbys-arden-tickets-333881447397",
+                    "link_type": "tickets"
+                },
+                {
+                    "source": "Allevents.in",
+                    "link": "https://allevents.in/sacramento/paints-and-ice-cream-for-kids-at-leatherbys-arden/10000333881447397",
+                    "link_type": "tickets"
+                },
+                {
+                    "source": "UNATION",
+                    "link": "https://www.unation.com/event/10392603",
+                    "link_type": "more info"
+                },
+                {
+                    "source": "Upcoming Events – 4kids.com",
+                    "link": "https://4kids.com/organizer/young-at-the-arts-2/",
+                    "link_type": "more info"
+                },
+                {
+                    "source": "ChatterBlock",
+                    "link": "https://www.chatterblock.com/events/342590/paints-ice-cream-for-kids-at-leatherbys-arden/",
+                    "link_type": "more info"
+                }
+            ],
+            "venue": {
+                "name": "Leatherby's Family Creamery",
+                "rating": 4.6,
+                "reviews": 3884,
+                "link": "https://www.google.com/search?hl=en&q=Leatherby%27s+Family+Creamery&ludocid=1971227420425603623&ibp=gwp%3B0,7"
+            },
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRlYxS9X_asrolAIGQhyfFN4bgOLQ0RHOzGXE0OjlKw&s"
+        },
+        {
+            "title": "Little Eco Art Market in Old Sacramento with kid...",
+            "date": {
+                "start_date": "Jul 9",
+                "when": "Sat, 3 PM"
+            },
+            "address": [
+                "Atrium 916 - Creative Innovation Center for Sustainability, 1020 Front St",
+                "Sacramento, CA"
+            ],
+            "link": "https://www.eventbrite.com/e/little-eco-art-market-in-old-sacramento-with-kid-activities-tickets-356895472967",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=h86EWlzTw91jAX0A73mP0PPAJe7_FpI_FnIZCppRuuYj4divIyUSKFu4eCjqCJPeoMQoXvAdAgR_qVfMlNPKOPtm946jvHF_E2nTS9_A3wWn_jutfAU",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809adaea70d45795:0xc5da6c867b39a829?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809adaea70d45795%3A0xc5da6c867b39a829&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "Little Eco-Art Market in Old Sacramento waterfront is back with kid activities, train rides, and local vendors.",
+            "ticket_info": [
+                {
+                    "source": "Eventbrite.com",
+                    "link": "https://www.eventbrite.com/e/little-eco-art-market-in-old-sacramento-with-kid-activities-tickets-356895332547",
+                    "link_type": "tickets"
+                },
+                {
+                    "source": "AllEvents.in",
+                    "link": "https://allevents.in/mobile/amp-event.php?event_id=10000356895472967",
+                    "link_type": "more info"
+                }
+            ],
+            "venue": {
+                "name": "Atrium 916 - Creative Innovation Center for Sustainability",
+                "rating": 4.6,
+                "reviews": 24,
+                "link": "https://www.google.com/search?hl=en&q=Atrium+916+-+Creative+Innovation+Center+for+Sustainability&ludocid=14256826895243520041&ibp=gwp%3B0,7"
+            },
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHF_8au40pxhL2cFcPhWhwhNtBdMyl1-2CRmt51RM4zg&s"
+        },
+        {
+            "title": "Lighthouse Covenant Church Kids Camp",
+            "date": {
+                "start_date": "Jul 11",
+                "when": "Mon, Jul 11 – Fri, Jul 15"
+            },
+            "address": [
+                "Lighthouse Covenant Church, 3605 Gregory Ave",
+                "West Sacramento, CA"
+            ],
+            "link": "https://www.eventbrite.com/e/lighthouse-covenant-church-kids-camp-tickets-360128513077",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=2C0Wa9r6T0Jc_zSxc8CugJI7jSQJKI1gG7LANQglfo01M2n2YmKwUM-u7EuxLPTbjKnVMCkj48Ej0Mrh7-Zl7zBv64IkrqZw9Mmz7P1zR1MgBDqE85w",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809ad3cbc729a77d:0x4da512a0610febd5?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809ad3cbc729a77d%3A0x4da512a0610febd5&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "Lighthouse Church Kids Camp-July 11-15 (5:30pm-7:30pm)-Bible Stories, Games, Food, Fun, FREE! 3605 Gregory Avenue West Sacramento, CA 95691",
+            "ticket_info": [
+                {
+                    "source": "Eventbrite",
+                    "link": "https://www.eventbrite.com/e/lighthouse-covenant-church-kids-camp-tickets-360128513077",
+                    "link_type": "more info"
+                },
+                {
+                    "source": "Upcoming Events – 4kids.com",
+                    "link": "https://4kids.com/venue/lighthouse-covenant-church/",
+                    "link_type": "more info"
+                },
+                {
+                    "source": "AllEvents.in",
+                    "link": "https://allevents.in/mobile/amp-event.php?event_id=10000360128513077",
+                    "link_type": "more info"
+                }
+            ],
+            "venue": {
+                "name": "Lighthouse Covenant Church",
+                "rating": 5.0,
+                "reviews": 8,
+                "link": "https://www.google.com/search?hl=en&q=Lighthouse+Covenant+Church&ludocid=5594898592110210005&ibp=gwp%3B0,7"
+            },
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu8Als6plJIHW2AxLsHOK3afXqAS_KKP-jNz2flMe-FRokRyG1U8-LGgNMsw&s=10"
+        },
+        {
+            "title": "Family Friendly Field Trip: Del Paso Regional Park",
+            "date": {
+                "start_date": "Jul 3",
+                "when": "Tomorrow, 8:30 – 11:30 AM"
+            },
+            "address": [
+                "Del Paso Regional Park, 3565 Auburn Blvd",
+                "Sacramento, CA"
+            ],
+            "link": "https://local.aarp.org/event/family-friendly-field-trip-del-paso-regional-park-2022-07-03-sacramento-ca.html",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=QvM2-6JFoysqEETd50cUellJEv2YvZO01VfQVQs7wjVVAfopsY4VWMne1s-5IMIf-PUJ6B_idYTptrvU82e_3Ue_xgtApZvWbCP-1RZaBkXiLFGOe9A",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809ad90e6f962c7d:0xea287c24144b3934?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809ad90e6f962c7d%3A0xea287c24144b3934&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "This large, little known park spans the confluence of I-80, Bus. 80 and the Auburn Boulevard exit. Its lush riparian habitat along Arcade Creek is definitely worth exploring, so join Maureen for a...",
+            "ticket_info": [
+                {
+                    "source": "local AARP",
+                    "link": "https://local.aarp.org/event/family-friendly-field-trip-del-paso-regional-park-2022-07-03-sacramento-ca.html",
+                    "link_type": "more info"
+                }
+            ],
+            "venue": {
+                "name": "Del Paso Regional Park",
+                "rating": 4.0,
+                "reviews": 182,
+                "link": "https://www.google.com/search?hl=en&q=Del+Paso+Regional+Park&ludocid=16872872498344704308&ibp=gwp%3B0,7"
+            },
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-_a0u5IniBNL4HxCLrkwolN_OJmo3tYb_6IyMsvzWxQtVZZjM6f6TZZaGmQ&s=10"
+        },
+        {
+            "title": "Little Eco Art Market in Old Sacramento with kid...",
+            "date": {
+                "start_date": "Jul 16",
+                "when": "Sat, 11 AM – 3 PM"
+            },
+            "address": [
+                "Atrium 916 - Creative Innovation Center for Sustainability, 1020 Front St",
+                "Sacramento, CA"
+            ],
+            "link": "https://allevents.in/mobile/amp-event.php?event_id=10000356895482997",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=h86EWlzTw91jAX0A73mP0PPAJe7_FpI_FnIZCppRuuYj4divIyUSKFu4eCjqCJPeoMQoXvAdAgR_qVfMlNPKOPtm946jvHF_E2nTS9_A3wWn_jutfAU",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809adaea70d45795:0xc5da6c867b39a829?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809adaea70d45795%3A0xc5da6c867b39a829&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "Little Eco-Art Market in Old Sacramento waterfront is back with kid activities, train rides, and local vendors. About this Event Saturday mornings in Old Sacramento bring local creatives popping...",
+            "ticket_info": [
+                {
+                    "source": "AllEvents.in",
+                    "link": "https://allevents.in/mobile/amp-event.php?event_id=10000356895482997",
+                    "link_type": "more info"
+                }
+            ],
+            "venue": {
+                "name": "Atrium 916 - Creative Innovation Center for Sustainability",
+                "rating": 4.6,
+                "reviews": 24,
+                "link": "https://www.google.com/search?hl=en&q=Atrium+916+-+Creative+Innovation+Center+for+Sustainability&ludocid=14256826895243520041&ibp=gwp%3B0,7"
+            },
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yfVyzDrm0XWe9xmbR4IcbyYllOFgCd-xDyC7DEGDzQ&s=10"
+        },
+        {
+            "title": "Construction Zone Kids @ RCC",
+            "date": {
+                "start_date": "Jul 3",
+                "when": "Tomorrow, 5:30 – 7:00 PM"
+            },
+            "address": [
+                "9333 Tech Center Dr #200",
+                "Sacramento, CA"
+            ],
+            "link": "https://rivercitycc.com/events/2688677/129484545/2022-7-3",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=gCdP441Hy4l6oF_i5_hMUdjiIMPNst46JaWTS5bTBEiRsQsxe0vhnzA8NFfqUnQJ3oSX5qBLbnIEJ1Ey0aPzajo5-N9ar99ClQ4f3OkBGG5FUYEtwfA",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809adca711b5a6db:0xfd65078e68410f8e?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809adca711b5a6db%3A0xfd65078e68410f8e&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "We welcome your family to the Children’s Ministry of River City Calvary Chapel. Our hope is that your children will feel welcome, comfortable, and safe as they come to learn about and worship...",
+            "ticket_info": [
+                {
+                    "source": "River City Calvary Chapel",
+                    "link": "https://rivercitycc.com/events/2688677/129484545/2022-7-3",
+                    "link_type": "more info"
+                }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nAjGSWMMw2L13ZZ5EMKOb3E5CrBtSMSyAP9RHEfoIHOgMBoCJnuxLToDHBgM&s"
+        },
+        {
+            "title": "Make Clay Art, Paint a canvas. Old Sacramento ...",
+            "date": {
+                "start_date": "Jul 3",
+                "when": "Tomorrow, 4:30 PM"
+            },
+            "address": [
+                "Atrium 916 - Creative Innovation Center for Sustainability, 1020 Front St",
+                "Sacramento, CA"
+            ],
+            "link": "https://www.eventbrite.com/e/make-clay-art-paint-a-canvas-old-sacramento-date-creative-kids-tickets-366627862807",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=h86EWlzTw91jAX0A73mP0PPAJe7_FpI_FnIZCppRuuYj4divIyUSKFu4eCjqCJPeoMQoXvAdAgR_qVfMlNPKOPtm946jvHF_E2nTS9_A3wWn_jutfAU",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809adaea70d45795:0xc5da6c867b39a829?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809adaea70d45795%3A0xc5da6c867b39a829&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "Paint a canvas, or make your own clay magnet. Enjoy a shaded garden patio in historic Old Sacramento. Sip, chill, make art, & people-watch.",
+            "ticket_info": [
+                {
+                    "source": "Eventbrite.com",
+                    "link": "https://www.eventbrite.com/e/make-clay-art-paint-a-canvas-old-sacramento-date-creative-kids-tickets-366626719387",
+                    "link_type": "tickets"
+                },
+                {
+                    "source": "Allevents.in",
+                    "link": "https://allevents.in/sacramento/make-clay-art-paint-a-canvas-old-sacramento-date-and-creative-kids/10000366627862807",
+                    "link_type": "tickets"
+                }
+            ],
+            "venue": {
+                "name": "Atrium 916 - Creative Innovation Center for Sustainability",
+                "rating": 4.6,
+                "reviews": 24,
+                "link": "https://www.google.com/search?hl=en&q=Atrium+916+-+Creative+Innovation+Center+for+Sustainability&ludocid=14256826895243520041&ibp=gwp%3B0,7"
+            },
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA00t9069LcLx3dngyY0Z6h_iF7WlZbeMks4YK3D7RuQ&s"
+        },
+        {
+            "title": "Water Park Play Dates",
+            "date": {
+                "start_date": "Jul 3",
+                "when": "Today, 10:00 – 11:30 AM"
+            },
+            "address": [
+                "Disciples Church, 281 Iron Point Rd #291",
+                "Folsom, CA"
+            ],
+            "link": "https://discipleschurch.net/events/category/dckids/",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=QWA3uQ7oC-htUO86NRe8OrS5b_c6kw35nNbWk3D0W0c8ZUiP4HOd-facrCVGccbHOkJVrsCFDkoEbypNcNEApjbtdOq534PE1cwK08r0_Yf8p3kGorA",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809ae1512f05e8b7:0x4895c57b405857cf?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809ae1512f05e8b7%3A0x4895c57b405857cf&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "Beat the summer heat by joining DC kids at the park to play in the water! We’ll have some water bottles, bubbles, and sidewalk chalk. This is a great opportunity to invite your friends. All play...",
+            "ticket_info": [
+                {
+                    "source": "Disciples Church",
+                    "link": "https://discipleschurch.net/events/category/dckids/",
+                    "link_type": "more info"
+                }
+            ],
+            "venue": {
+                "name": "Disciples Church",
+                "rating": 4.9,
+                "reviews": 8,
+                "link": "https://www.google.com/search?hl=en&q=Disciples+Church&ludocid=5230303675411879887&ibp=gwp%3B0,7"
+            },
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKCoj2Fpum6OC4dBodt6XHCnhIFFNYpAA6vL58cluz1oC-OlVwYmJZyepuw&s=10"
+        },
+        {
+            "title": "Family Friendly Field Trip: Stone Lakes Wildlife...",
+            "date": {
+                "start_date": "Jul 30",
+                "when": "Sat, 9 AM – 12 PM"
+            },
+            "address": [
+                "National Audubon Society, 765 University Ave # 200",
+                "Sacramento, CA"
+            ],
+            "link": "https://www.sacramentoaudubon.org/calendar/family-friendly-field-trip-stone-lakes-wildlife-refuge",
+            "event_location_map": {
+                "image": "https://www.google.com/maps/vt/data=dbIatFAzCpfgwMq9REeJLGqW04e5qAqE9XquH5lP7dZ3PUNScQoUuCCWYUAP1JMrPARpijsjoTLl2cKu5Fgqe58I4S951LCEO_NPeomKYfLdrhLbZFc",
+                "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x809adaf45c67459d:0x20def0bf765fc35a?sa=X&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x809adaf45c67459d%3A0x20def0bf765fc35a&engine=google_maps&google_domain=google.com&hl=en&q=Family+Events+in+West+Sacramento&type=place"
+            },
+            "description": "Registration is NOT required for this field trip. This is a Family Friendly Trip. Participants 12 and under are welcome. Proof of vaccination will be required for this trip.",
+            "ticket_info": [
+                {
+                    "source": "Sacramento Audubon Society",
+                    "link": "https://www.sacramentoaudubon.org/calendar/family-friendly-field-trip-stone-lakes-wildlife-refuge",
+                    "link_type": "more info"
+                }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRujuR2HaQsJkH34JQsqtjUhGIXUKBJLtXYuHYyaVgQ_kHf95-K2X1z5PHY1g&s"
+        }
+    ]
+}

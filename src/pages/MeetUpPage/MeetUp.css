@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+}
+.MeetUpContainer {
+    background-image: url('../../images/LandingPageBackground.jpg');
+    background-size: cover;
+    height: 120vh;
+    padding-left: 17%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    position: inherit;
+  }
+
+  .map-container {
+    display: flex;
+    width: 90%;
+    height: 55%;
+    border-radius: 2%;
+    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+  }
+
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    background-color: rgba(248, 248, 248, 0.753);
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+    margin-bottom: 5%;
+    
+}
+
+.radio-buttons {
+    width:57vh;
+    
+}
+
+.radio-group {
+    padding-left: 2%;
+}
+
+.meet-up-title{
+  width: 50vh;
+  margin: auto;
+  text-align: center;
+  background-color: rgba(32, 61, 32, 0.753);
+  background-size: cover;
+  background-position: bottom; 
+  color: white;
+  border-radius: 5%;
+  box-shadow: 10px 10px 10px rgb(43, 43, 43);
+  margin-bottom: 1%;
+  margin-top: 1%;
+  border-radius: 5vh;
+}
+
+#pin-detail-view {
+  min-width: 350px;
+  max-width: 400px;
+}
+
+#plan-it-button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+}
+
+@media (max-width: 600px) {
+  #meetup-categories {
+    width: 90%;
+  }
+  #meetup-categories-radio-group {
+    width: 70%;
+    margin-right: 10px;
+  }
+  .map-container{
+    height: 35%;
+    margin-left: 15px;
+  }
+}
+
+@media (max-width: 500px) {
+  .meet-up-title {
+    width: 90%;
+  }
+}
+
+@media (max-width: 420px) {
+  #meetup-categories-radio-group {
+    width: 50%;
+  }
+}

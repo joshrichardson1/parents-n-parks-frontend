@@ -1,0 +1,18 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+    background-color: rgba(248, 248, 248, 0.753);
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+    margin-bottom: 5%;
+    
+}
+
+.radio-buttons {
+    width:57vh;
+    
+}
+
+.radio-group {
+    padding-left: 2%;
+}

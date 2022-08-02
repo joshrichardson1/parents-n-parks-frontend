@@ -1,0 +1,34 @@
+.box-form {
+    background-image: url('../../images/paper-crayon.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+#check-icon{
+    height: 80%;
+}
+
+.grid-box{
+    margin-left: 10vh;
+}
+
+.profile-header {
+    padding-bottom: 3vh;
+    color: black;
+    font-size: 5vh;
+}
+
+#profile-pic-toast{
+    margin-top: 5%;
+    padding-bottom: 5%;
+    height: 60%;
+}
+
+#upload-pic-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

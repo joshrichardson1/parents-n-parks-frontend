@@ -1,0 +1,40 @@
+.friendListArea {
+    background-image: url('../../images/LandingPageBackground.jpg');
+    background-size: cover;
+    height: 95vh;
+    background-position: center center;
+    background-attachment: fixed;
+    padding: 2%;
+    padding-left: 15%;
+}
+
+.friendListBox {
+    background-color: rgba(32, 61, 32, 0.753);
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+    margin-left: 10%;
+    height: 80vh;
+    width: 45%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
+    padding-top: 2%;
+}
+
+.friendInstance {
+    background-color: rgb(252, 252, 252);
+    padding: 5%;
+}
+
+.proText{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+
+.profileButton {
+    align-self:center;
+}
+

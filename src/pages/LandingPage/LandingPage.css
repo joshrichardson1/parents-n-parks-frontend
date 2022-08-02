@@ -1,0 +1,108 @@
+#about {
+    padding-top: 15%;
+    margin-right: 8%;
+}
+
+#aboutImage {
+    height: 70%;
+    padding-top: 20%;
+}
+
+#aboutImageContainer {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 20px;
+}
+
+#aboutSectionContainer {
+    height: 110vh;
+    background-color: rgba(13, 80, 13);
+    color: white
+}
+
+#how {
+    padding-top: 15%;
+    margin-left: 15%;
+}
+
+#howImage {
+    height:80%;
+    padding-top: 20%;
+}
+
+#howImageContainer {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 20px;
+}
+
+#howSectionContainer {
+    background-color: rgba(138, 218, 138);
+    height: 110vh;
+}
+
+#landingHeader {
+    margin-top: 7%;
+    margin-bottom: 10%;
+}
+
+#landingLogin {
+    background-image: url('../../images/LandingPageBackground.jpg');
+    background-size: cover;
+    height: 110vh;
+}
+
+.landingLinks {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+} 
+
+#landingPhrase {
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.landingSections {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 20px;
+
+}
+
+#safety {
+    color: white;
+    padding-top: 18%;
+    margin-right: 10%;
+}
+
+#safetyImage {
+    height: 70%;
+    padding-top: 30%;
+}
+
+#safetyImageContainer {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 20px;
+}
+
+#safetySectionContainer {
+    background-color: rgba(8, 36, 8);
+    height: 110vh;
+}

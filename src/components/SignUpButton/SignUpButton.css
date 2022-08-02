@@ -1,0 +1,20 @@
+#nty-button {
+  margin-right: 10px;
+}
+
+#complete-signup-button {
+  margin-left: 10px;
+}
+
+#kids-toast{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 75%;
+}
+
+#signup-container {
+  display: flex;
+  justify-content: center;
+}

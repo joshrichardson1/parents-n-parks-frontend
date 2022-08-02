@@ -1,0 +1,29 @@
+.upcoming-events {
+    /* background-color: #0177B3; */
+    background-color: rgba(32, 61, 32, 0.753);
+    background-size: cover;
+    background-position: bottom; 
+    color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+    padding-bottom: 15px;
+}
+
+.upcoming-cards {
+    flex-grow: 1;
+    padding: 12px;
+}
+
+#upcomingEventsTitle {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+#card-view-all-events {
+    margin: auto;
+    text-align: center;
+}
+
+#indiv-card {
+    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+}

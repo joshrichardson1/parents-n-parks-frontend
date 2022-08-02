@@ -1,0 +1,50 @@
+#connectionsContainer {
+  margin-top: 20px;
+}
+
+#dashboardContainer {
+  background-image: url('../../images/LandingPageBackground.jpg');
+  background-size: cover;
+  height: 120vh;
+  padding-left: 17%;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#dashboardRequests {
+  height: 50vh; 
+}
+
+#dashboardRow {
+  height: 45vh;
+}
+
+#dashboardSuggested {
+  padding-left: 160px;
+}
+
+#dashboardUpcomingEvents {
+  height: 35vh;
+}
+
+#dashboardWeather {
+  margin-top: 2%;
+  height: 35vh;
+  width: 50%;
+  padding-bottom: 5%;
+}
+
+
+#dashboardRequests {
+  height: 50vh;
+
+}
+
+.dashboardSections {
+  padding-bottom: 550px;
+}
+
+#gridContainer {
+  padding-top: 10px;
+}
+

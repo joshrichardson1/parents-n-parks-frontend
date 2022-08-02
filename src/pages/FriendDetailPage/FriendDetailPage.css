@@ -1,0 +1,70 @@
+.friendProfileArea {
+    background-image: url('../../images/LandingPageBackground.jpg');
+    background-size: cover;
+    height: 95vh;
+    background-position: center center;
+    background-attachment: fixed;
+    padding: 2%;
+    padding-left: 10%;
+}
+
+.proGrid {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1%;
+    height: 100%;
+}
+
+.initialInfoCard {
+    background-color: rgba(32, 61, 32, 0.753);
+    width: 40%;
+    height: 40%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 2%;
+    padding: 2%;
+    color: white;
+}
+
+.secondaryCards {
+    color: white;
+    background-color: rgba(32, 61, 32, 0.753);
+    width: 70%;
+    height: 40%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(43, 43, 43);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10%;
+    padding: 2%;
+}
+
+.secondaryGrid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10%;
+    height: 100%;
+    width: 100%;
+}
+
+.divider {
+    background-color: black;
+    color: black;
+    width: 100%;
+    height: 2px !important;
+}
+
+.famBio {
+    min-height: 50%;
+}
+
+.Kid {
+    background-color: white;
+    color: black;
+}
