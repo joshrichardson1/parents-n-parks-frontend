@@ -16,8 +16,8 @@ const S3Bucket = (props) => {
     bucketName: "cp-pnp-bucket",
     dirName: userID,
     region: "us-east-1",
-    accessKeyId: "AKIAX6GRSW2BGTRQ6CXK",
-    secretAccessKey: "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",
+    accessKeyId: "",
+    secretAccessKey: "",
   };
 
 
